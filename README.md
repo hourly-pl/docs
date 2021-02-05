@@ -1,5 +1,5 @@
-# docs
-Dokumentacja projektu: docs.hourly.pl
+# Dokumentacja projektu: docs.hourly.pl
+![2/cover.png](2/cover.png)
 
 # Logotyp hourly.pl
 + [Landing page: www.hourly.pl](https://www.hourly.pl/)
